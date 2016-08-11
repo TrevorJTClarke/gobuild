@@ -1,2 +1,2 @@
 # gobuild
-Website/App for the Go Build Filament Project
+Website/App for the Go Build XYZ Project

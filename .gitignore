@@ -1,3 +1,6 @@
+*.badideas
+config.json
+
 # Logs
 logs
 *.log

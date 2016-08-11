@@ -1,0 +1,25 @@
+{
+  "name": "gobuild",
+  "version": "0.0.1",
+  "description": "Website for the GoBuild.xyz project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No Tests!\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevorJTClarke/gobuild.git"
+  },
+  "author": "@trevorjtclarke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrevorJTClarke/gobuild/issues"
+  },
+  "homepage": "https://github.com/TrevorJTClarke/gobuild#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "redis": "^2.6.2",
+    "request": "^2.74.0"
+  }
+}
