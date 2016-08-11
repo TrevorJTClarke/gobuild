@@ -1,5 +1,6 @@
 *.badideas
 config.json
+dump.rdb
 
 # Logs
 logs
